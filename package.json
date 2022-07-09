@@ -1,0 +1,33 @@
+{
+    "name": "interxpress",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jest"
+    },
+    "jest": {
+      "collectCoverage": true
+    },
+    "description": "Intercept express.js responses before It get sent.",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/I2rys/interxpress.git"
+    },
+    "keywords": [
+      "intercept",
+      "express.js",
+      "express",
+      "middleware",
+      "response"
+    ],
+    "author": "I2rys",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/I2rys/interxpress/issues"
+    },
+    "homepage": "https://github.com/I2rys/interxpress#readme"
+  }
+  
